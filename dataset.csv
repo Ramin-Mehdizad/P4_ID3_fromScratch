@@ -1,0 +1,15 @@
+wind,temp,outlook,humidity,label
+weak,hot,sunny,high,play
+strong,hot,sunny,high,play
+weak,hot,rainy,high,stop
+weak,mild,overcast,high,play
+strong,cold,rainy,normal,stop
+weak,cold,overcast,normal,play
+strong,cold,rainy,normal,stop
+weak,mild,sunny,normal,play
+weak,cold,sunny,normal,play
+strong,mild,overcast,normal,play
+weak,mild,sunny,high,stop
+strong,mild,rainy,high,stop
+weak,hot,overcast,normal,play
+weak,cold,rainy,high,play

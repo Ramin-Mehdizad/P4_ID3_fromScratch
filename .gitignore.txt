@@ -1,0 +1,19 @@
+# files and folders to be ignored
+
+
+# python specific files and folders
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# My Specified Files and folders
+dataset.csv
+LICENSE.md
+Created_Tree.png
+Created_Tree
+*.log
+Project_Description.pdf
+
+
+
